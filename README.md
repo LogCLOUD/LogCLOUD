@@ -4,7 +4,7 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 
 # Badges
 
-![example workflow] (https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 # Índice
 
@@ -38,37 +38,37 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
   - Gira
   - Power BI
 
-#Plano de Entregas
+# Plano de Entregas
 
-##Cronograma
+## Cronograma
 
 definir as datas das atividades a serem desenvolvidas e adiciona-las aqui
 
-##Sprint 1. Desenvolvimento
+## Sprint 1. Desenvolvimento
        - [ x ] Defina o propósito do template;
-       _ [ x ] Identifique os elementos principais;
-       _ [  ] Esboce o layout;
-       _ [  ] Escolha cores e fontes;
-       _ [  ] Desenvolva o design;
-       _ [  ] Teste e revise;
-       _ [  ] Documente instruções de uso;
-       _ [  ] Criação do vídeo;
-       _ [  ] Finalize e aprovação.
+       - [ x ] Identifique os elementos principais;
+       - [  ] Esboce o layout;
+       - [  ] Escolha cores e fontes;
+       - [  ] Desenvolva o design;
+       - [  ] Teste e revise;
+       - [  ] Documente instruções de uso;
+       - [  ] Criação do vídeo;
+       - [  ] Finalize e aprovação.
 
-##Sprint 2. Divulgação
-       _ [  ] Documento passo a passo;
-       _ [  ] Vídeo passo a passo;
-       _ [  ] Treinamento com os professores;
-       _ [  ] Treinamento com os alunos;
-       _ [  ] Monitoramento e ajustes.
-
-
-#Disciplinas relacionadas
+## Sprint 2. Divulgação
+       - [  ] Documento passo a passo;
+       - [  ] Vídeo passo a passo;
+       - [  ] Treinamento com os professores;
+       - [  ] Treinamento com os alunos;
+       - [  ] Monitoramento e ajustes.
 
 
-#Competências desenvolvidas
+# Disciplinas relacionadas
 
-##Hard Skill
+
+# Competências desenvolvidas
+
+## Hard Skill
 <details>
 <ul>◻️<summary>Hard Skills desenvolvidas</summary></ul>
 
@@ -78,7 +78,7 @@ definir as datas das atividades a serem desenvolvidas e adiciona-las aqui
 
 </details>
 
-##Soft Skill
+## Soft Skill
 <details>
 <ul>◻️<summary>Soft Skills desenvolvidas</summary></ul>
 
@@ -87,7 +87,7 @@ definir as datas das atividades a serem desenvolvidas e adiciona-las aqui
 - Item 3
 
 </details>
-#Referências Bibliográficas
+# Referências Bibliográficas
 
 
-#Autores
+# Autores
