@@ -24,12 +24,5 @@ jobs:
           closed_issues=$(echo "$response" | jq '.closed_issues')
           
           progresso_issues=$(bc <<< "scale=2; ($closed_issues / ($closed_issues + $total_issues)) * 100")
-          
-          
-      
-          git config user.name "GitHub Actions"
-          git config user.email "<>"
-          git add README.md
-          git commit -m "Atualizar progresso do projeto [skip ci]"
-          git push
+
           
