@@ -1,0 +1,47 @@
+name: Atualizar Badge de Progresso
+
+on:
+  push:
+    branches:
+      - main # ou a branch principal do seu repositório
+
+jobs:
+  updateBadge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Atualizar Badge de Progresso
+        run: |
+ 
+          owner="AndreLizRibeiro"
+          repo="Template"
+
+          # Obtenha as informações do projeto
+          response=$(curl -s "https://api.github.com/repos/$owner/$repo")
+
+          # Extrai o número total de issues ou pull requests do projeto
+          total_issues=$(echo "$response" | jq '.open_issues_count')
+          total_pulls=$(echo "$response" | jq '.open_pull_issues_count')
+
+          # Extrai o número de issues ou pull requests fechados
+          closed_issues=$(echo "$response" | jq '.closed_issues')
+          closed_pulls=$(echo "$response" | jq '.closed_pull_issues')
+
+          # Calcula o progresso em porcentagem
+          progresso_issues=$(bc <<< "scale=2; ($closed_issues / ($closed_issues + $total_issues)) * 100")
+          progresso_pulls=$(bc <<< "scale=2; ($closed_pulls / ($closed_pulls + $total_pulls)) * 100")
+
+          
+          # Atualizar o arquivo README.md com o novo progresso
+          sed -i "s/Progresso: [0-9]*%/Progresso: ${progresso_issues}%/" README.md
+          sed -i "s/Progresso: [0-9]*%/Progresso: ${progresso_pulls}%/" README.md
+          
+          # Adicionar e commitar as alterações
+          git config user.name "GitHub Actions"
+          git config user.email "<>"
+          git add README.md
+          git commit -m "Atualizar progresso do projeto [skip ci]"
+          git push
