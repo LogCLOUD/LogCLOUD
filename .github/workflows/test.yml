@@ -1,19 +1,22 @@
-name: API workflow
+name: Atualizar Badge de Progresso
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main 
 
 jobs:
-  build:
+  updateBadge:
     runs-on: ubuntu-latest
-    name: Test python API
+
     steps:
-    - uses: actions/checkout@v1
-    - name: Install requirements
-      run: pip install -r requirements.txt
-    - name: Run tests and collect coverage
-      run: pytest --cov .
-    - name: Upload coverage reports to Codecov
-      run: |
-        curl -Os https://uploader.codecov.io/latest/windows/codecov
-        chmod +x codecov
-        ./codecov -t ${CODECOV_TOKEN}
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Atualizar Badge de Progresso
+        run: |             
+        
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
