@@ -56,8 +56,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 ## Sprint 1. Desenvolvimento
-- [ ] https://github.com/AndreLuizRibeiro/Template/issues/10
-- ['✅'] Defina o propósito do template;
+- [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
 - [x] Escolha cores e fontes;
@@ -66,6 +65,21 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
+<input type="checkbox" class="custom-checkbox">
+.custom-checkbox {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #333;
+  border-radius: 3px;
+  background-color: #FFF;
+}
+
+.custom-checkbox:checked {
+  background-color: #00FF00;
+}
 
 ## Sprint 2. Divulgação
 - [ ] Documento passo a passo;
