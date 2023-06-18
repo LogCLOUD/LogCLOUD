@@ -4,6 +4,22 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 
 # Badges
 
+owner="AndreLuizRibeiro"
+repo="Template"
+
+response=$(curl -s "https://api.github.com/repos/$owner/$repo")
+
+total_issues=$(echo "$response" | jq '.open_issues_count')
+total_pulls=$(echo "$response" | jq '.open_pull_issues_count')
+
+closed_issues=$(echo "$response" | jq '.closed_issues')
+closed_pulls=$(echo "$response" | jq '.closed_pull_issues')
+
+progresso_issues=$(bc <<< "scale=2; ($closed_issues / ($closed_issues + $total_issues)) * 100")
+progresso_pulls=$(bc <<< "scale=2; ($closed_pulls / ($closed_pulls + $total_pulls)) * 100")
+
+echo "Progresso de Issues: $progresso_issues%"
+echo "Progresso de Pull Requests: $progresso_pulls%"name: Atualizar Badge de Progresso
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 # Índice
