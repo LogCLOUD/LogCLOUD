@@ -65,21 +65,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
-<input type="checkbox" class="custom-checkbox">
-.custom-checkbox {
-  appearance: none;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  width: 16px;
-  height: 16px;
-  border: 2px solid #333;
-  border-radius: 3px;
-  background-color: #FFF;
-}
 
-.custom-checkbox:checked {
-  background-color: #00FF00;
-}
 
 ## Sprint 2. Divulgação
 - [ ] Documento passo a passo;
