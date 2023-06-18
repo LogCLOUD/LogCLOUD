@@ -45,22 +45,22 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 definir as datas das atividades a serem desenvolvidas e adiciona-las aqui
 
 ## Sprint 1. Desenvolvimento
-   - [ x ] Defina o propósito do template;
-       - [ x ] Identifique os elementos principais;
-       - [  ] Esboce o layout;
-       - [  ] Escolha cores e fontes;
-       - [  ] Desenvolva o design;
-       - [  ] Teste e revise;
-       - [  ] Documente instruções de uso;
-       - [  ] Criação do vídeo;
-       - [  ] Finalize e aprovação.
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [] Esboce o layout;
+- [] Escolha cores e fontes;
+- [] Desenvolva o design;
+- [] Teste e revise;
+- [] Documente instruções de uso;
+- [] Criação do vídeo;
+- [] Finalize e aprovação.
 
 ## Sprint 2. Divulgação
-       - [  ] Documento passo a passo;
-       - [  ] Vídeo passo a passo;
-       - [  ] Treinamento com os professores;
-       - [  ] Treinamento com os alunos;
-       - [  ] Monitoramento e ajustes.
+- [] Documento passo a passo;
+- [] Vídeo passo a passo;
+- [] Treinamento com os professores;
+- [] Treinamento com os alunos;
+- [] Monitoramento e ajustes.
 
 
 # Disciplinas relacionadas
