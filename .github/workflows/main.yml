@@ -17,12 +17,6 @@ jobs:
         run: |             
         
         
-          response=$(curl -s "https://api.github.com/repos/AndreLuizRibeiro/Template")
-      
-          total_issues=$(echo "$response" | jq '.open_issues_count')
-         
-          closed_issues=$(echo "$response" | jq '.closed_issues')
-          
-          progresso_issues=$(bc <<< "scale=2; ($closed_issues / ($closed_issues + $total_issues)) * 100")
-          sed -i "s/Progresso: [0-9]*%/Progresso: ${progresso_isses}%/" README.md
-          
+          - name: Upload coverage reports to Codecov
+            uses: codecov/codecov-action@v3
+              env: CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
