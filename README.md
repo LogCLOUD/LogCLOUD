@@ -1,12 +1,12 @@
-#Projeto Template
+# Projeto Template
 
 Irei demonstrar como funciona e como montar um template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização correta da ferramenta GitHub e Gira. 
 
-#Badges
+# Badges
 
 ![example workflow] (https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
-#Índice
+# Índice
 
 * [Projeto](#projeto-template)
 * [Badges](#badges)
@@ -22,21 +22,21 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 * [Referências Bibliográficas](#referências-bibliográficas)
 * [Autores](#autores)
 
-#Equipe
+# Equipe
 
-#Objetivo do Projeto
+# Objetivo do Projeto
 
-#Funcionalidades
+# Funcionalidades
 
-#Demonstração da Aplicação
+# Demonstração da Aplicação
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
-  _ GitHub
-  _ Power Point
-  _ Excel
-  _ Gira
-  _ Power BI
+  - GitHub
+  - Power Point
+  - Excel
+  - Gira
+  - Power BI
 
 #Plano de Entregas
 
@@ -45,8 +45,8 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 definir as datas das atividades a serem desenvolvidas e adiciona-las aqui
 
 ##Sprint 1. Desenvolvimento
-       _ [  ] Defina o propósito do template;
-       _ [  ] Identifique os elementos principais;
+       - [ x ] Defina o propósito do template;
+       _ [ x ] Identifique os elementos principais;
        _ [  ] Esboce o layout;
        _ [  ] Escolha cores e fontes;
        _ [  ] Desenvolva o design;
