@@ -14,20 +14,18 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Atualizar Badge de Progresso
-        run: |             
+        run: ./.github/workflows/main.yml             
         
         
           response=$(curl -s "https://api.github.com/repos/AndreLuizRibeiro/Template")
       
           total_issues=$(echo "$response" | jq '.open_issues_count')
-          total_pulls=$(echo "$response" | jq '.open_pull_issues_count')
          
           closed_issues=$(echo "$response" | jq '.closed_issues')
-          closed_pulls=$(echo "$response" | jq '.closed_pull_issues')
           
           progresso_issues=$(bc <<< "scale=2; ($closed_issues / ($closed_issues + $total_issues)) * 100")
           
-          sed -i "s/Progresso: [0-9]*%/Progresso: ${progresso_issues}%/" README.md
+          
       
           git config user.name "GitHub Actions"
           git config user.email "<>"
