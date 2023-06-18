@@ -13,7 +13,7 @@ response = requests.get(api_url, headers=headers)
 response_data = response.json()
 
 # Calculate the completed issues
-total_issues = len(issues)
+total_issues = len(response_data)
 completed_issues = sum(1 for issue in response_data if issue.get("state") == "closed")
 open_issues_percentage = (total_issues - completed_issues) / total_issues * 100
 
