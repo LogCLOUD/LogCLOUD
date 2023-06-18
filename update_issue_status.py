@@ -13,7 +13,7 @@ issues = response.json()
 
 # Calcula os valores dinamicamente
 total_issues = len(issues)
-completed_issues = sum(1 for issue in issues if issue["state"] == "closed")
+completed_issues = sum(1 for issue in issues if issue.get("state") == "closed")
 open_issues_percentage = (total_issues - completed_issues) / total_issues * 100
 
 # Exibe as informações no README.md
