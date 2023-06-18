@@ -10,11 +10,11 @@ github_token = "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"
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues?state=open"
 headers = {"Authorization": f"Token {github_token}"}
 response = requests.get(api_url, headers=headers)
-issues = json.loads(response)
+response_data = response.json()
 
-# Calcula os valores dinamicamente
+# Calculate the completed issues
 total_issues = len(issues)
-completed_issues = sum(1 for issue in issues if issue.get("state") == "closed")
+completed_issues = sum(1 for issue in response_data if issue.get("state") == "closed")
 open_issues_percentage = (total_issues - completed_issues) / total_issues * 100
 
 # Exibe as informações no README.md
