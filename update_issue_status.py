@@ -10,20 +10,23 @@ github_token = "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"
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues?state=open"
 headers = {"Authorization": f"Token {github_token}"}
 response = requests.get(api_url, headers=headers)
-response_data = response.json()
+response_data = response.text
 
-# Get the list of issues from the correct key
-issues = response_data  # Adjust this line according to the structure of the response_data
+# Parse the response_data as JSON if it's in JSON format
+try:
+    issues = json.loads(response_data)
+except json.JSONDecodeError:
+    # Handle the case where the response_data is not in JSON format
+    issues = []
 
-total_issues = len(issues)
+# Calculate the completed issues
 completed_issues = sum(1 for issue in issues if issue.get("state") == "closed")
-open_issues_percentage = (total_issues - completed_issues) / total_issues * 100
 
 # Exibe as informações no README.md
 readme_content = f"""
 ## Status das Issues
 
-Atualmente, existem {total_issues} issues em aberto, das quais {completed_issues} estão concluídas. Isso representa uma porcentagem de {open_issues_percentage:.2f}% de issues em aberto.
+Atualmente, existem {len(issues)} issues em aberto, das quais {completed_issues} estão concluídas. Isso representa uma porcentagem de {(completed_issues / len(issues) * 100):.2f}% de issues em aberto.
 """
 
 # Salva as informações no arquivo README.md
