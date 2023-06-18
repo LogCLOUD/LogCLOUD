@@ -51,14 +51,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Cronograma
 
-definir as datas das atividades a serem desenvolvidas e adiciona-las aqui
+### [Cronograma do Projeto](https://github.com/users/AndreLuizRibeiro/projects/4)
+
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 ## Sprint 1. Desenvolvimento
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
