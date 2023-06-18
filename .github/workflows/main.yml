@@ -1,47 +1,22 @@
-name: Atualizar Badge de Progresso
+# Defina as variáveis do projeto
+owner="AndreLuizRibeiro"
+repo="Template"
 
-on:
-  push:
-    branches:
-      - main # ou a branch principal do seu repositório
+# Obtenha as informações do projeto
+response=$(curl -s "https://api.github.com/repos/$owner/$repo")
 
-jobs:
-  updateBadge:
-    runs-on: ubuntu-latest
+# Extrai o número total de issues ou pull requests do projeto
+total_issues=$(echo "$response" | jq '.open_issues_count')
+total_pulls=$(echo "$response" | jq '.open_pull_issues_count')
 
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v2
+# Extrai o número de issues ou pull requests fechados
+closed_issues=$(echo "$response" | jq '.closed_issues')
+closed_pulls=$(echo "$response" | jq '.closed_pull_issues')
 
-      - name: Atualizar Badge de Progresso
-        run: |
- 
-          owner="AndreLizRibeiro"
-          repo="Template"
+# Calcula o progresso em porcentagem
+progresso_issues=$(bc <<< "scale=2; ($closed_issues / ($closed_issues + $total_issues)) * 100")
+progresso_pulls=$(bc <<< "scale=2; ($closed_pulls / ($closed_pulls + $total_pulls)) * 100")
 
-          # Obtenha as informações do projeto
-          response=$(curl -s "https://api.github.com/repos/$owner/$repo")
-
-          # Extrai o número total de issues ou pull requests do projeto
-          total_issues=$(echo "$response" | jq '.open_issues_count')
-          total_pulls=$(echo "$response" | jq '.open_pull_issues_count')
-
-          # Extrai o número de issues ou pull requests fechados
-          closed_issues=$(echo "$response" | jq '.closed_issues')
-          closed_pulls=$(echo "$response" | jq '.closed_pull_issues')
-
-          # Calcula o progresso em porcentagem
-          progresso_issues=$(bc <<< "scale=2; ($closed_issues / ($closed_issues + $total_issues)) * 100")
-          progresso_pulls=$(bc <<< "scale=2; ($closed_pulls / ($closed_pulls + $total_pulls)) * 100")
-
-          
-          # Atualizar o arquivo README.md com o novo progresso
-          sed -i "s/Progresso: [0-9]*%/Progresso: ${progresso_issues}%/" README.md
-          sed -i "s/Progresso: [0-9]*%/Progresso: ${progresso_pulls}%/" README.md
-          
-          # Adicionar e commitar as alterações
-          git config user.name "GitHub Actions"
-          git config user.email "<>"
-          git add README.md
-          git commit -m "Atualizar progresso do projeto [skip ci]"
-          git push
+# Exibe o progresso
+echo "Progresso de Issues: $progresso_issues%"
+echo "Progresso de Pull Requests: $progresso_pulls%"name: Atualizar Badge de Progresso
