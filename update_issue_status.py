@@ -1,4 +1,5 @@
 import requests
+import json
 
 # Configurações
 repository_owner = "AndreLuizRibeiro"
@@ -9,7 +10,7 @@ github_token = "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"
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues?state=open"
 headers = {"Authorization": f"Token {github_token}"}
 response = requests.get(api_url, headers=headers)
-issues = response.json()
+issues = json.loads(response.text)
 
 # Calcula os valores dinamicamente
 total_issues = len(issues)
