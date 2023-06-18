@@ -4,7 +4,7 @@ import json
 # Configurações
 repository_owner = "AndreLuizRibeiro"
 repository_name = "Template"
-github_token = "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"
+github_token = "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"
 
 # Faz a solicitação à API do GitHub para obter as issues em aberto
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues?state=open"
