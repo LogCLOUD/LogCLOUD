@@ -2,7 +2,7 @@ name: Atualização de Status das Issues
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '* * * * *' 
   push:
     branches:
       - main
