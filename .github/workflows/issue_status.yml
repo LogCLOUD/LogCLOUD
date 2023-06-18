@@ -24,4 +24,4 @@ jobs:
         run: pip install -r requirements.txt 
 
       - name: Executar script de atualização de status das issues
-        run: python update_issue_status.py #
+        run: python update_issue_status.py
