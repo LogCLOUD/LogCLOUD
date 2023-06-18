@@ -11,7 +11,7 @@ api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/is
 headers = {"Authorization": f"Token {github_token}"}
 response = requests.get(api_url, headers=headers)
 response_data = response.json()
-
+print(response_data)
 # Calculate the completed issues
 total_issues = len(response_data)
 completed_issues = sum(1 for issue in response_data if issue.get("state") == "closed")
