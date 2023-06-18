@@ -1,6 +1,6 @@
 # Projeto Template
 
-Irei demonstrar como funciona e como montar um template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização correta da ferramenta GitHub e Gira. 
+Irei demonstrar como funciona e como montar um template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização correta da ferramenta GitHub. 
 
 # Badges
 
@@ -43,7 +43,7 @@ Adicionar video e documentos nessa seção
   - GitHub
   - Power Point
   - Excel
-  - Gira
+  - Planner
   - Power BI
 
 # Plano de Entregas
@@ -51,7 +51,8 @@ Adicionar video e documentos nessa seção
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-### [Cronograma do Projeto(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+### Cronograma do Projeto
+[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 ## Sprint 1. Desenvolvimento
 - [x] Defina o propósito do template;
