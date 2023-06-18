@@ -3,7 +3,7 @@ name: Atualizar Badge de Progresso
 on:
   push:
     branches:
-      - origin/main 
+      - main 
 
 jobs:
   updateBadge:
