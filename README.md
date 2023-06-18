@@ -15,9 +15,7 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 * [Índice](#índice)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades](#funcionalidades)
-* [Demonstração da Aplicação](#demonstração-da-aplicação)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Plano de Entregas](#plano-de-entregas)
 * [Disciplinas relacionadas](#disciplinas-relacionadas)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -25,14 +23,23 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 * [Autores](#autores)
 
 # Equipe
+![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
 
 # Objetivo do Projeto
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
 
-# Funcionalidades
+# Funcionalidades e Demonstração da Aplicação
 
-# Demonstração da Aplicação
+## Sprint 1. Desenvolvimento
 
-# Tecnologias Utilizadas
+## Sprint 2. Divulgação
+
+## Tecnologias Utilizadas
 
   - GitHub
   - Power Point
