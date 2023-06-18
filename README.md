@@ -56,7 +56,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 ## Sprint 1. Desenvolvimento
-- [x] Defina o propósito do template;
+- [ ] https://github.com/AndreLuizRibeiro/Template/issues/10
+- ['✅'] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
 - [x] Escolha cores e fontes;
