@@ -4,7 +4,12 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 
 # Badges
 
-https://api.github.com/repos/{nome_do_usuário}AndreLuizRibeiro/Template}/issues?state=open
+[![codecov](https://codecov.io/gh/AndreLuizRibeiro/Template/branch/main/graph/badge.svg?token=CBQ1F2S691)](https://codecov.io/gh/AndreLuizRibeiro/Template)
+<a href="https://codecov.io/gh/AndreLuizRibeiro/Template" > 
+ <img src="https://codecov.io/gh/AndreLuizRibeiro/Template/branch/main/graph/badge.svg?token=CBQ1F2S691"/> 
+ </a>
+
+![codecov](https://api.github.com/repos/AndreLuizRibeiro/Template}/issues?state=open)
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
