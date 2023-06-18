@@ -10,14 +10,14 @@ github_token = "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"
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues?state=open"
 headers = {"Authorization": f"Token {github_token}"}
 response = requests.get(api_url, headers=headers)
-response_data = response.text
+response_data = response.json()
 
-# Parse the response_data as JSON if it's in JSON format
-try:
-    issues = json.loads(response_data)
-except json.JSONDecodeError:
-    # Handle the case where the response_data is not in JSON format
-    issues = []
+# Ensure response_data is a list or dictionary
+if isinstance(response_data, str):
+    response_data = json.loads(response_data)
+
+# Extract the issues from the response_data
+issues = response_data
 
 # Calculate the completed issues
 completed_issues = sum(1 for issue in issues if issue.get("state") == "closed")
