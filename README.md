@@ -3,6 +3,8 @@
 Irei demonstrar como funciona e como montar um template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização correta da ferramenta GitHub e Gira. 
 
 # Badges
+
+https://api.github.com/repos/{nome_do_usuário}AndreLuizRibeiro/Template}/issues?state=open
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
