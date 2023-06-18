@@ -35,12 +35,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Funcionalidades e Demonstração da Aplicação
 
-## Sprint 1. Desenvolvimento
+Adicionar video e documentos nessa seção
 
-## Sprint 2. Divulgação
+[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
-
   - GitHub
   - Power Point
   - Excel
@@ -50,10 +49,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Plano de Entregas
 
 ## Cronograma
-
-### [Cronograma do Projeto](https://github.com/users/AndreLuizRibeiro/projects/4)
-
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+
+### [Cronograma do Projeto(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 ## Sprint 1. Desenvolvimento
 - [x] Defina o propósito do template;
@@ -76,14 +74,21 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 # Disciplinas relacionadas
-
+Aqui estão as disciplinas utilizadas e desenvolvidas para a realização desse projeto
 <details>
 <summary>Disciplinas utilizadas</summary>
-
-- Item 1
-- Item 2
-- Item 3
-
+ 
+- Processos de Produção
+  - breve resumo na relação da disciplina com o trabalho
+- Gestão de Pessoas
+  - breve resumo na relação da disciplina com o trabalho
+- Projeto de Fábrica
+  - breve resumo na relação da disciplina com o trabalho
+- Tecnologia da Informação Aplicada à Gestão de Operações e Processos
+  - breve resumo na relação da disciplina com o trabalho
+- Gestão da Produção Aplicada
+  - breve resumo na relação da disciplina com o trabalho
+ 
 </details>
 
 # Competências desenvolvidas
@@ -91,24 +96,43 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Hard Skill
 <details>
 <summary>Hard Skills desenvolvidas</summary>
-
-- Item 1
-- Item 2
-- Item 3
-
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+ 
 </details>
 
 ## Soft Skill
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
-- Item 1
-- Item 2
-- Item 3
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
 # Referências Bibliográficas
+Essas foram as referências utilizadas para realizar este projeto
 
+[GitHub Doc](https://docs.github.com/pt) /
+[Gerenciar Arquivos](https://docs.github.com/pt/repositories/working-with-files/managing-files) /
+[Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) /
+[Configuração Git](https://docs.github.com/pt/get-started/quickstart/set-up-git) /
+[Guilherme Tavares](https://github.com/guiftavares/PorfolioBancoDeDados) /
+[Api 6°sem-GPI-2023/1](https://github.com/larissagss15/API6S_01) /
+[Api 6°sem-GPI-2023/1](https://github.com/francinelemes1504/API-6-Semestre-2023)
 
 # Autores
+Andre Antunes | [Perfil](https://www.linkedin.com/in/andre-antunes-1876b41b0/)
