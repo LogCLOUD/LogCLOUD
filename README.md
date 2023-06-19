@@ -4,19 +4,6 @@ Irei demonstrar como funciona e como montar um template para os projetos do curs
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Dimensões da Aprendizado por Projeto Integrado (API)
- ## Dimensão 1 - Produto 
- - [ ] Entregue
- - [ ] Não Entregue
- ## Dimensão 2 - Tecnológias Especificas/Apoio
-- [ ] Aplicada
-- [ ] Não Aplicada
- ## Dimensão 3 - Mindset Digital
-- [ ] Design Thinking (Canvas)
-- [ ] Scrum
-- [ ] Kanban
-- [ ] Outras ___________
-
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -27,7 +14,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Badges
-Criar um micro certificado
+Criar uma micro certificado
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
@@ -42,8 +29,9 @@ Criar um micro certificado
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Backlog do produto](#Backlog-do-produto)
+* [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Referências Bibliográficas](#referências-bibliográficas)
 * [Autores](#autores)
 
 # Equipe
@@ -86,22 +74,26 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
- ### Especificas 
- - [Artigo das novas competências e tecnologias](https://repositorio.unesp.br/handle/11449/237929)
- - [Gestão do serviço publíco](https://www.academia.edu/36952804/LIVRO_DE_GEST%C3%83O_pdf)
- - [Sistema Toyota de Produção (Toyota Production System - TPS)](https://www.lean.org.br/conceitos/117/sistema-toyota-de-producao-(toyota-production-system---tps).aspx)
+  ### Produto 
+  > Descreva aqui a parte do MVP referente a Sprint
 
-  ### Apoio
-  - GitHub
-  - Power Point
-  - Excel
-  - Planner
-  - Power BI
-<img src="https://img.shields.io/badge/Python-CED4DA?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
-<img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
-<img src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853" alt="Google Sheets" /> 
-<img src="https://img.shields.io/badge/Google%20Docs-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=0D96F6" alt="Google Docs" />
-    
+ ### Tecnológias Específicas/Apoio
+ > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
+Exemplos: 
+- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
+- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
+- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
+  
+ ### Mindset Digital
+> Liste todas as tecnologias referentes aos processos da API
+Exemplos: 
+- Backlog
+- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
+- MVP
+- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
+- Scrum para iniciantes
+- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+
 # Cronograma das Sprints
 
 ## Cronograma
@@ -121,6 +113,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 Requisitos funcionais 
 Requisitos não funcionais
 User stories
+
 # Burndown
 Em horas
 ## Sprint 1. Desenvolvimento
@@ -133,7 +126,6 @@ Em horas
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
-
 
 ## Sprint 2. Divulgação
 - [ ] Documento passo a passo;
