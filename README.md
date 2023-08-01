@@ -14,8 +14,8 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-# Badges
-Criar uma micro certificado (futuramente)
+# Micro Certificações
+Futuramente
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
@@ -24,7 +24,7 @@ Criar uma micro certificado (futuramente)
 # Índice
 
 * [Projeto](#projeto-template)
-* [Badges](#badges)
+* [Micro Certificações](#badges)
 * [Índice](#índice)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -50,25 +50,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Apresentção das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-<details>
-   <summary>Usuário comum</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084663-1e8ae95b-0c84-493c-b4ab-5cfcda5a4eb3.gif">
-    </div>
-</details>
-<details>
-   <summary>Usuário suporte</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084712-de2d2905-dc65-41af-97e8-f980eff5f2d1.gif">
-    </div>
-</details>
-<details>
-   <summary>Usuário administrador</summary>
-    <div align="center">
-        <img src="./usuario_administrador.gif">
-    </div>
-</details>
-
 
 Adicionar video e documentos nessa seção
 
