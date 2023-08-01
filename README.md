@@ -4,6 +4,19 @@ Template para os projetos do curso de graduação em Gestão da Produção Indus
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
+# Índice
+
+* [Projeto](#projeto-template)
+* [Micro Certificações](#badges)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Backlog do produto](#Backlog-do-produto)
+* [Burndown](#Burndown)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Autores](#autores)
+
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -21,19 +34,6 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-# Índice
-
-* [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
-* [Índice](#índice)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
 
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
