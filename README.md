@@ -1,4 +1,4 @@
-# Aprendiado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
@@ -108,28 +108,27 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
     
 ![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
 ![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-![user stories](https://user-images.githubusercontent.com/69374340/172057949-daade83b-8fec-4acc-a3cf-c4a26a3d3162.png)
 </div>
 
 Regras de Negócio
 - 
 
 Requisitos funcionais 
-- tela 
-- relatorios
-- UX
+- Conteúdo da apresentação   
+- Relatórios 
+- Experiência do usuário ao oferecer algo mais (UX)
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio
-- Metodologias agil
-- Power BI
+- Usar tecnologias especifícas/apoio/tecnológicas
+- Metodologias ágil
+- Power BI / Jira / Canvas
   
 User stories
 
 # Burndown
 Em horas
-## Sprint 1. Desenvolvimento
+## Sprint 1. Cocepção
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -140,14 +139,14 @@ Em horas
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Divulgação
+## Sprint 2. Desenvolvimento
 - [ ] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
-## Sprint 3 . Desenvolvimento
+## Sprint 3 . Implementação
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -158,7 +157,7 @@ Em horas
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
-## Sprint 4. Desenvolvimento
+## Sprint 4. Operacionalização
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
