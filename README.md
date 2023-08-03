@@ -116,7 +116,7 @@ User stories
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Sprint 1. Cocepção
+## Sprint 1. Concepção
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -127,7 +127,7 @@ User stories
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento
+## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
