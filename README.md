@@ -41,7 +41,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](.img/pi.png)
+![Equipe](.img/equipe.png)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
