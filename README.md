@@ -41,7 +41,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](.img/teste.png)
+![Equipe]([.img/teste.png](https://github.com/LogCLOUD/LogCLOUD/blob/main/.img/PI-GRUPO%207.jpg))
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
