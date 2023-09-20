@@ -41,7 +41,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](.img/PI-GRUPO7)
+![Equipe](.img/PI-GRUPO 7)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
