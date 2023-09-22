@@ -39,6 +39,8 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
+# A Empresa
+![logo](.img/equipe.png)
 
 # Equipe
 ![Equipe](.img/equipe.png)
