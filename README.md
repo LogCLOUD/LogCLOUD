@@ -40,12 +40,14 @@ Futuramente
 </p>
 
 # A Empresa
+> Logo
+
 ![logo](.img/P7-removebg-preview.png)
 
 # Equipe
 ![Equipe](.img/equipe.png)
 
-# Identidade e Propósito
+> Identidade e Proposito
 
 **MISSÃO**: A Log Cloud foi fundada com prapósito de se tornar a melhor empresa de consultoria de cargas, do mercado atual, por meio de tecnologia avançada, priorizando qualidade, responsabilidade social e desenvolvimento sustentável.
 
@@ -59,6 +61,8 @@ Ser reconhecida pela profissionalização de sua gestão.
 * Integridade;
 * Respeito ao meio ambiente;
 * Valorização de pessoas;
+
+> Swot da Empresa
 
 ![Swot](.img/swot.png)
 
@@ -86,7 +90,7 @@ Adicionar video e documentos nessa seção
  ### Tecnológias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
 Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
+- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/) 
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
