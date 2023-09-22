@@ -90,7 +90,7 @@ Adicionar video e documentos nessa seção
  ### Tecnológias Específicas/Apoio
  > tecnologia utilizadas na Sprint
 
-  ![jira](.img/Jira-Logo-650x366.png)
+  ![jira](Jira-Logo-650x366.png)
   ![canva](canva-removebg-preview.png)
 
 
