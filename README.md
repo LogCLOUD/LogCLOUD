@@ -51,7 +51,7 @@ Futuramente
 
 **MISSÃO**: A Log Cloud foi fundada com prapósito de se tornar a melhor empresa de consultoria de cargas, do mercado atual, por meio de tecnologia avançada, priorizando qualidade, responsabilidade social e desenvolvimento sustentável.
 
-**Visão**: Ser referência em consultoria de logística, transporte e armazenamento.
+**VISÃO**: Ser referência em consultoria de logística, transporte e armazenamento.
 Superar sempre as expectativas dos clientes e parceiros.
 Ser reconhecida pela profissionalização de sua gestão.
 
