@@ -40,7 +40,7 @@ Futuramente
 </p>
 
 # A Empresa
-![logo](.img/equipe.png)
+![logo](.img/P7-removebg-preview.png)
 
 # Equipe
 ![Equipe](.img/equipe.png)
