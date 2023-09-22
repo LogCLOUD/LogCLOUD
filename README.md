@@ -64,7 +64,7 @@ Ser reconhecida pela profissionalização de sua gestão.
 
 > Swot da Empresa
 
-![Swot](.img/swot.png)
+![Swot](SWOT.png)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
