@@ -42,7 +42,7 @@ Futuramente
 # A Empresa
 > Logo
 
-![logo](.img/P7-removebg-preview.png)
+![logo](P7-removebg-preview.png)
 
 # Equipe
 ![Equipe](.img/equipe.png)
