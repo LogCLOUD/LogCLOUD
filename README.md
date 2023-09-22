@@ -92,6 +92,7 @@ Adicionar video e documentos nessa seção
 
   ![jira](Jira-Logo-650x366.png)
   ![canva](canva-removebg-preview.png)
+  ![github](github-removebg-preview.png)
 
 
 # Cronograma das Sprints
