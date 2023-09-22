@@ -45,7 +45,7 @@ Futuramente
 ![logo](P7-removebg-preview.png)
 
 # Equipe
-![Equipe](.img/equipe.png)
+![Equipe](equipe.png)
 
 > Identidade e Proposito
 
