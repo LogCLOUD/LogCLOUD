@@ -105,7 +105,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](.img/backlog1.jpg)
+![product backlog](BACKLOG 1.jpeg)
 ![product backlog](.img/back2.jpg)
 ![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
 </div>
