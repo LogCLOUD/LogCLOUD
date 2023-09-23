@@ -80,9 +80,9 @@ Desenvolver um Dashboard com o propósito de avaliar as oportunidades de otimiza
 
 Objetivo do MVP é fornecer aos usuários uma visualização simples e útil dos indicadores de: principais cargas, origem, destino, custo FOB, Custo CIF, peso da carga, valor agregado.
 
-Recursos Principais do MVP
+**Recursos Principais do MVP**
 
--Página Principal: Exibir uma página inicial com um resumo dos indicadores 
+- Página Principal: Exibir uma página inicial com um resumo dos indicadores 
 
 - Gráficos Básicos: Incluir gráficos simples que representem os indicadores, valores e etc.
 
