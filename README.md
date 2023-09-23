@@ -76,7 +76,7 @@ Desenvolver um Dashboard com o propósito de avaliar as oportunidades de otimiza
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Nome do MVP: Dashboard de Indicadores 
+  > **Nome do MVP: Dashboard de Indicadores**
 
 Objetivo do MVP é fornecer aos usuários uma visualização simples e útil dos indicadores de: principais cargas, origem, destino, custo FOB, Custo CIF, peso da carga, valor agregado.
 
