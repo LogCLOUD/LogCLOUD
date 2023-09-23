@@ -104,11 +104,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Backlog do produto
   
 <div align="center">
-    
+**EPICS**    
 ![product backlog](bkl1.jpeg)
+
+** BACKLOG DA SPRINT ZERO**
 ![product backlog](bkl2.jpeg)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
+
 
 Regras de Negócio
 - 
