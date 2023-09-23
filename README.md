@@ -25,7 +25,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | concluido|  [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 04/09/2023 a 25/09/2023| Concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00 | 04/09/2023 a 25/09/2023| concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01|  25/09/2023 a 16/10/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 16/10/2023 a 02/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 02/11/2023 a 27/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
@@ -67,25 +67,24 @@ Ser reconhecida pela profissionalização de sua gestão.
 ![Swot](SWOT.png)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+
+Desenvolver um Dashboard com o propósito de avaliar as oportunidades de otimização da logística de carga no Aeroporto de SJK, utilizando informações de importação e exportação de diversas regiões
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  > Nome do MVP: Dashboard de Indicadores 
+
+Objetivo do MVP é fornecer aos usuários uma visualização simples e útil dos indicadores de: principais cargas, origem, destino, custo FOB, Custo CIF, peso da carga, valor agregado.
+
+Recursos Principais do MVP
+
+-Página Principal: Exibir uma página inicial com um resumo dos indicadores 
+
+- Gráficos Básicos: Incluir gráficos simples que representem os indicadores, valores e etc.
 
  ### Tecnológias Específicas/Apoio
  > tecnologia utilizadas na Sprint
@@ -132,15 +131,8 @@ User stories
 
 
 ## Sprint 0. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
+Para criar a sprint zero, nos reunimos em sala de aula, por vídeo, ou na casa de alguém sempre que possível para definir e delegar as tarefas que cada um deveria realizar até o próximo encontro, deixando tudo organizado via 5W2H.
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
