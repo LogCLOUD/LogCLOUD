@@ -147,7 +147,7 @@ User stories
 
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![sprint backlog](b1.jpeg)
 
 
 ## Sprint 0. Concepção
