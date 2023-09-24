@@ -130,7 +130,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Experiência do usuário ao oferecer algo mais (UX)
 
   
-Requisitos não funcionais
+> Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Power BI / Jira / Canvas
