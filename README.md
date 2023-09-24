@@ -127,15 +127,19 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 > **Requisitos funcionais**
  
-Conteúdo da apresentação   
+Conteúdo da apresentação  
+ 
 Relatórios 
+
 Experiência do usuário ao oferecer algo mais (UX)
 
   
 > **Requisitos não funcionais**
 
 Usar tecnologias especifícas/apoio/tecnológicas
+
 Metodologias ágil
+
 Power BI / Jira / Canvas
   
 User stories
