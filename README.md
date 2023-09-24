@@ -64,7 +64,7 @@ Ser reconhecida pela profissionalização de sua gestão.
 
 > Swot da Empresa
 
-![Swot](SWOT.png)
+![Swot](swotnovo.jpeg)
 
 # Objetivo do Projeto
 
