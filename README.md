@@ -87,6 +87,7 @@ Objetivo do MVP é fornecer aos usuários uma visualização simples e útil dos
 - Gráficos Básicos: Incluir gráficos simples que representem os indicadores, valores e etc.
 
  ### Tecnológias Específicas/Apoio
+ 
  > tecnologia utilizadas na Sprint
 
   ![jira](Jira-Logo-650x366.png)
@@ -124,13 +125,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Regras de Negócio
 
-> Requisitos funcionais 
+> **Requisitos funcionais**
+ 
 - Conteúdo da apresentação   
 - Relatórios 
 - Experiência do usuário ao oferecer algo mais (UX)
 
   
-> Requisitos não funcionais
+> **Requisitos não funcionais**
+
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Power BI / Jira / Canvas
