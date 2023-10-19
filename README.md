@@ -22,9 +22,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 04/09/2023 | concluido|  [Ver Relatório](relatoriokick.docx) | 
-|00 | 04/09/2023 a 25/09/2023| concluido | [Ver Relatório](relatoriosprint0.docx) | 
-|01|  25/09/2023 a 23/10/2023|a fazer | [Ver Relatório](Relatorio.Sprint.0.1.docx) | 
+|Kick Off | 04/09/2023 | Concluido|  [Ver Relatório](relatoriokick.docx) | 
+|00 | 04/09/2023 a 25/09/2023| Concluido | [Ver Relatório](relatoriosprint0.docx) | 
+|01|  25/09/2023 a 23/10/2023| Concluido| [Ver Relatório](Relatorio.Sprint.0.1.docx) | 
 |02| 16/10/2023 a 02/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 02/11/2023 a 27/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
