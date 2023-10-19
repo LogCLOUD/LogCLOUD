@@ -94,10 +94,11 @@ Objetivo do MVP é fornecer aos usuários uma visualização simples e útil dos
  
  > tecnologia utilizadas na Sprint
 
-  ![jira](Jira-Logo-650x366.png)
+  ![jira](Jira-Logo-650x366.png) 
   ![canva](canva-removebg-preview.png)
   ![github](github-removebg-preview.png)
   ![pawerpoint](pawerpoint-removebg-preview.png)
+  ![Pawer Bi](pawerBI.png)
 
 
 # Cronograma das Sprints
