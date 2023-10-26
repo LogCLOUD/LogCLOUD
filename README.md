@@ -126,6 +126,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ![product backlog](bkl2.jpeg)
+![product backlog](imagem2.jpg)
 
 
 
@@ -156,7 +157,6 @@ User stories
 ![sprint backlog](b1.jpeg)
 ![sprint backlog](b2.jpeg)
 ![sprint backlog](imagem1.jpg)
-![sprint backlog](imagem2.jpg)
 
 
 
