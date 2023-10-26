@@ -152,9 +152,10 @@ User stories
 
 
 
-# Burndown
+# Burnup
 ![sprint backlog](b1.jpeg)
 ![sprint backlog](b2.jpeg)
+
 
 
 ## Sprint 0. Concepção
