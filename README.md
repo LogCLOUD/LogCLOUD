@@ -24,7 +24,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluido|  [Ver Relatório](relatoriokick.docx) | 
 |00 | 04/09/2023 a 25/09/2023| Concluido | [Ver Relatório](relatoriosprint0.docx) | 
-|01|  25/09/2023 a 23/10/2023| Concluido| [Ver Relatório](RELATÓRIO LOG CLOUD SPRINT 0.pdf) | 
+|01|  25/09/2023 a 23/10/2023| Concluido| [Ver Relatório](RELATÓRIOLOGCLOUDSPRINT0.pdf) | 
 |02| 16/10/2023 a 02/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 02/11/2023 a 27/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
