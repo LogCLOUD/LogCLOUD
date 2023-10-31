@@ -22,7 +22,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 04/09/2023 | Concluido|  [Ver Relatório]() | 
+|Kick Off | 04/09/2023 | Concluido|  [Ver Relatório](RELATÓRIOLOGCLOUDKICKOFF.pdf) | 
 |00 | 04/09/2023 a 25/09/2023| Concluido | [Ver Relatório]() | 
 |01|  25/09/2023 a 23/10/2023| Concluido| [Ver Relatório]() | 
 |02| 16/10/2023 a 02/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
