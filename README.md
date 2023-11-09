@@ -96,27 +96,9 @@ Objetivo do MVP é fornecer aos usuários uma visualização simples e útil dos
 
   <div id="top"></div>
 <p align="center">
-      <img src="Jira-Logo-650x366.png" width="40%" height="40%">
-<p align="center">
-<div id="top"></div>
-<p align="center">
-      <img src="canva-removebg-preview.png" width="40%" height="40%">
-<p align="center">
-<div id="top"></div>
-<p align="center">
-      <img src="github-removebg-preview.png" width="40%" height="40%">
-<p align="center">
-<div id="top"></div>
-<p align="center">
-      <img src="pawerpoint-removebg-preview.png" width="40%" height="40%">
-<p align="center">
-<div id="top"></div>
-<p align="center">
-      <img src="pawerBI.png" width="40%" height="40%">
+      <img src="designlogos.png" width="80%" height="80%">
 <p align="center">
   
-
-
 
 # Cronograma das Sprints
 
