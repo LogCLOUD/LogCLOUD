@@ -32,7 +32,10 @@ Sprint | Previsão | Status| Histórico|
 # A Empresa
 > Logo
 
-![logo](P7-removebg-preview.png)
+<div id="top"></div>
+<p align="center">
+      <img src="P7-removebg-preview.png" width="50%" height="30%">
+<p align="center">
 
 # Equipe
 ![Equipe](equipe.png)
@@ -68,7 +71,10 @@ Ser reconhecida pela profissionalização de sua gestão.
 
 > Swot da Empresa
 
-![Swot](swotnovo.jpeg)
+  <div id="top"></div>
+<p align="center">
+      <img src="swot.png" width="80%" height="80%">
+<p align="center">
 
 # Objetivo do Projeto
 
@@ -99,7 +105,6 @@ Objetivo do MVP é fornecer aos usuários uma visualização simples e útil dos
       <img src="designlogos.png" width="80%" height="80%">
 <p align="center">
   
-
 # Cronograma das Sprints
 
 ## Cronograma
