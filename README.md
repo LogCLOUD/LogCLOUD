@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |00 | 04/09/2023 a 25/09/2023| Concluido | [Ver Relatório](RELATÓRIOLOGCLOUDSPRINT0.pdf) | 
 |01|  25/09/2023 a 23/10/2023| Concluido| [Ver Relatório](RELATÓRIOLOGCLOUDSPRINT1.pdf) | 
 |02| 23/10/2023 a 13/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 02/11/2023 a 27/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|03| 13/11/2023 a 27/11/2023|a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # A Empresa
