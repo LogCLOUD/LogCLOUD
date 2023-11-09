@@ -38,7 +38,10 @@ Sprint | Previsão | Status| Histórico|
 <p align="center">
 
 # Equipe
-![Equipe](equipe.png)
+<div id="top"></div>
+<p align="center">
+      <img src="" width="50%" height="30%">
+<p align="center">
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
