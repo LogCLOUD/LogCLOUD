@@ -73,7 +73,7 @@ Ser reconhecida pela profissionalização de sua gestão.
 
   <div id="top"></div>
 <p align="center">
-      <img src="swot.png" width="80%" height="80%">
+      <img src="swot.png" width="90%" height="90%">
 <p align="center">
 
 # Objetivo do Projeto
