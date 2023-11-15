@@ -193,7 +193,7 @@ User stories
 
  <div id="top"></div>
 <p align="center">
-      <img src="" width="70%" height="70%">
+      <img src="burnupsprint2.jpeg" width="70%" height="70%">
 <p align="center">
 
 ## Sprint 0. Concepção
