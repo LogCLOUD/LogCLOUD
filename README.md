@@ -124,7 +124,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 **EPICS**    
 
 
-
 ![product backlog](bkl1.jpeg)
 
 
