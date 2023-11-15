@@ -178,11 +178,26 @@ User stories
 
 
 # Burnup
-![sprint backlog](b1.jpeg)
-![sprint backlog](b2.jpeg)
-![sprint backlog](imagem1.jpg)
+
+**BURNUP SPRINT 0**
+
+<div id="top"></div>
+<p align="center">
+      <img src="b1.jpeg" width="70%" height="70%">
+<p align="center">
+
+      <div id="top"></div>
+<p align="center">
+      <img src="b2.jpeg" width="70%" height="70%">
+<p align="center">
+      
 
 **BURNUP SPRINT 1**
+
+ <div id="top"></div>
+<p align="center">
+      <img src="imagem1.jpg" width="70%" height="70%">
+<p align="center">
 
  <div id="top"></div>
 <p align="center">
