@@ -135,6 +135,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![product backlog](bkl2.jpeg)
 ![product backlog](imagem2.jpg)
 
+**BACKLOG DA SPRINT 1**
+
+![product backlog]()
+
+**BACKLOG DA SPRINT 2**
+
+![product backlog]()
 
 
 # Regras de Negócio
