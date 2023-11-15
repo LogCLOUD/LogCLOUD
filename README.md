@@ -141,8 +141,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 **BACKLOG DA SPRINT 2**
 
-![product backlog]()
-
+![product backlog](backlogsprin2.jpeg)
 
 # Regras de Negócio
 
