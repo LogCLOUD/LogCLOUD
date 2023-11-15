@@ -129,7 +129,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <p align="center">
 
 **BACKLOG DA SPRINT ZERO**
-bkl1.jpeg
+
   <div id="top"></div>
 <p align="center">
       <img src="bkl2.jpeg" width="70%" height="70%">
