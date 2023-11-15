@@ -186,7 +186,7 @@ User stories
 
  <div id="top"></div>
 <p align="center">
-      <img src="" width="70%" height="70%">
+      <img src="burnupsprint1.jpeg" width="70%" height="70%">
 <p align="center">
 
 **BURNUP SPRINT 2**
