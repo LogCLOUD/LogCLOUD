@@ -181,13 +181,13 @@ User stories
 
 **BURNUP SPRINT 0**
 
-<div id="top"></div>
+ <div id="top"></div>
 <p align="center">
       <img src="b1.jpeg" width="70%" height="70%">
 <p align="center">
 
 
-<div id="top"></div>
+ <div id="top"></div>
 <p align="center">
       <img src="b2.jpeg" width="70%" height="70%">
 <p align="center">
