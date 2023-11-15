@@ -155,7 +155,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <p align="center">
 
 # Regras de Negócio
-backlogsprin2.jpeg
+
 > **Requisitos funcionais**
  
 Conteúdo da apresentação  
@@ -186,7 +186,8 @@ User stories
       <img src="b1.jpeg" width="70%" height="70%">
 <p align="center">
 
-      <div id="top"></div>
+
+<div id="top"></div>
 <p align="center">
       <img src="b2.jpeg" width="70%" height="70%">
 <p align="center">
@@ -198,6 +199,7 @@ User stories
 <p align="center">
       <img src="imagem1.jpg" width="70%" height="70%">
 <p align="center">
+
 
  <div id="top"></div>
 <p align="center">
