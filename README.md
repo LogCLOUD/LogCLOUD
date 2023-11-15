@@ -123,27 +123,39 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  
 **EPICS**    
 
-
-![product backlog](bkl1.jpeg)
-
-
+  <div id="top"></div>
+<p align="center">
+      <img src="bkl1.jpeg" width="70%" height="70%">
+<p align="center">
 
 **BACKLOG DA SPRINT ZERO**
-
-
-![product backlog](bkl2.jpeg)
-![product backlog](imagem2.jpg)
+bkl1.jpeg
+  <div id="top"></div>
+<p align="center">
+      <img src="bkl2.jpeg" width="70%" height="70%">
+<p align="center">
+      
+  <div id="top"></div>
+<p align="center">
+      <img src="imagem2.jpg" width="70%" height="70%">
+<p align="center">
 
 **BACKLOG DA SPRINT 1**
 
-![product backlog](backlogsprint1.jpg)
+  <div id="top"></div>
+<p align="center">
+      <img src="backlogsprint1.jpg" width="70%" height="70%">
+<p align="center">
 
 **BACKLOG DA SPRINT 2**
 
-![product backlog](backlogsprin2.jpeg)
+  <div id="top"></div>
+<p align="center">
+      <img src="backlogsprin2.jpeg" width="70%" height="70%">
+<p align="center">
 
 # Regras de Negócio
-
+backlogsprin2.jpeg
 > **Requisitos funcionais**
  
 Conteúdo da apresentação  
@@ -170,7 +182,19 @@ User stories
 ![sprint backlog](b2.jpeg)
 ![sprint backlog](imagem1.jpg)
 
+**BURNUP SPRINT 1**
 
+ <div id="top"></div>
+<p align="center">
+      <img src="" width="70%" height="70%">
+<p align="center">
+
+**BURNUP SPRINT 2**
+
+ <div id="top"></div>
+<p align="center">
+      <img src="" width="70%" height="70%">
+<p align="center">
 
 ## Sprint 0. Concepção
 
