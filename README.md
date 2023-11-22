@@ -255,11 +255,11 @@ Para criar a sprint zero, nos reunimos em sala de aula, por vídeo, ou na casa d
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Pawer Point | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Canvas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Pawer Point | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Canvas | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Excel | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
@@ -269,12 +269,12 @@ Para criar a sprint zero, nos reunimos em sala de aula, por vídeo, ou na casa d
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★  ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
