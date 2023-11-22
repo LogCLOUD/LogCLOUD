@@ -183,13 +183,13 @@ User stories
 
  <div id="top"></div>
 <p align="center">
-      <img src="b1.jpeg" width="70%" height="70%">
+      <img src="b1.jpeg" width="75%" height="75%">
 <p align="center">
 
 
  <div id="top"></div>
 <p align="center">
-      <img src="b2.jpeg" width="70%" height="70%">
+      <img src="b2.jpeg" width="75%" height="75%">
 <p align="center">
       
 
@@ -197,20 +197,19 @@ User stories
 
  <div id="top"></div>
 <p align="center">
-      <img src="imagem1.jpg" width="70%" height="70%">
+      <img src="imagem1.jpg" width="75%" height="75%">
 <p align="center">
 
 
  <div id="top"></div>
 <p align="center">
-      <img src="burnupsprint1.jpeg" width="70%" height="70%">
+      <img src="burnupsprint1.jpeg" width="75%" height="75%">
 <p align="center">
 
 **BURNUP SPRINT 2**
-
  <div id="top"></div>
 <p align="center">
-      <img src="burnupsprint2.jpeg" width="70%" height="70%">
+      <img src="burnupsprint2.jpeg" width="75%" height="75%">
 <p align="center">
 
 ## Sprint 0. Concepção
